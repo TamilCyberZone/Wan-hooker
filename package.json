@@ -1,0 +1,25 @@
+{
+  "name": "wan-hooker",
+  "version": "1.0.0",
+  "description": "This tool is helping for hooking the browsers in WAN(Wide-Area-Network)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TamilCyberZone/Wan-hooker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TamilCyberZone/Wan-hooker/issues"
+  },
+  "homepage": "https://github.com/TamilCyberZone/Wan-hooker#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
